@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">QrCode</string>
+    <string name="qrcode_position">Placer le code dans le cadre</string>
+    <string name="qrcode_instruction">Pour effectuer le contrôle scannez le QR Code </string>
+    <string name="qrcode_result_valid">Dérogation valide</string>
+    <string name="qrcode_result_end_validity">Fin de validité</string>
+    <string name="qrcode_result_scan_other">Scanner un nouveau QR code</string>
+</resources>
